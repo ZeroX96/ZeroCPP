@@ -1,9 +1,7 @@
 ﻿  ZeroCppConsoleSrc.cpp
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(6,7): error C2653: 'istream': is not a class or namespace name
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(6,1): error C2873: 'cout': symbol cannot be used in a using-declaration
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(7,25): error C2867: 'std::cin': is not a namespace
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(7): message : see declaration of 'std::cin'
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(8,26): error C2867: 'std::endl': is not a namespace
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(8): message : see declaration of 'std::endl'
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(12,5): error C2065: 'cout': undeclared identifier
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(12,24): error C2065: 'endl': undeclared identifier
+D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(33,38): warning C4244: 'argument': conversion from 'double' to 'b2', possible loss of data
+          with
+          [
+              b2=int
+          ]
+  ZeroCppConsoleSrc.vcxproj -> D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\x64\Debug\ZeroCppConsoleSrc.exe

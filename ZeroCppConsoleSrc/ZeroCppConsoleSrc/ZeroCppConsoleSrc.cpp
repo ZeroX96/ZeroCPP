@@ -3,13 +3,34 @@
 
 #include <iostream>
 
-using istream::cout;
-using namespace std::cin;
-using namespace std::endl;
+using std::cout;
+using std::cin;
+using std::endl;
 
-int main()
+template <typename Type>
+/// <summary>
+/// 
+/// </summary>
+/// <typeparam name="Type"></typeparam>
+/// <param name="A_Saad"></param>
+/// <param name="B_Saad"></param>
+/// <returns></returns>
+Type GetMax(Type A_Saad, Type B_Saad)
 {
-    cout << "HiS3D" << endl;
+    return (A_Saad > B_Saad) ? A_Saad : B_Saad;
+}
+
+template <class a1, typename b2>
+
+a1 GetMaxV2(a1 A1, b2 B2)
+{
+    return A1 + B2;
+}
+int main(void )
+{
+    cout << "Hi S3D " << endl;
+    cout << GetMax<int>(5, 6) << endl;
+    cout << GetMaxV2<char, int>('M', 2.4) << endl;
     std::cout << "Hello World!\n";
 }
 
