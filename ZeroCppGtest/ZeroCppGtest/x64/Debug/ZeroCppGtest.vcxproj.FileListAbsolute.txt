@@ -1,0 +1,1 @@
+D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppGtest\ZeroCppGtest\x64\Debug\ZeroCppGtest.vcxproj.CopyComplete

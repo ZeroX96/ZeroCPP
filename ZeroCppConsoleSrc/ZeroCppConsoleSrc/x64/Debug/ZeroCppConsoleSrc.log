@@ -1,7 +1,4 @@
-﻿  ZeroCppConsoleSrc.cpp
-D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(33,38): warning C4244: 'argument': conversion from 'double' to 'b2', possible loss of data
-          with
-          [
-              b2=int
-          ]
+﻿  Ch02.cpp
+  ZeroCppConsoleSrc.cpp
+  Generating Code...
   ZeroCppConsoleSrc.vcxproj -> D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\x64\Debug\ZeroCppConsoleSrc.exe

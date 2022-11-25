@@ -18,5 +18,16 @@
     <ClCompile Include="ZeroCppConsoleSrc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ch02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ch02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZeroCppConsoleSrc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
