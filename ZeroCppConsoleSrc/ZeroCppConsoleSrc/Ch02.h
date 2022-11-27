@@ -1,7 +1,6 @@
 #pragma once
 //Include the library header
 #include <iostream>
-#include "Ch02.h"
 
 
 /* Include only the needed functions The std Namespace functions we need
