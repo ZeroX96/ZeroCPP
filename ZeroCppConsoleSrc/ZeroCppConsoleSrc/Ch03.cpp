@@ -92,3 +92,18 @@ void Ch03_MyAccount::deposite(uint32_t DepositeValue)
 		cout << "sorry, you have entered a wrong value" << endl;
 	}
 }
+
+Ch03_Invoice::Ch03_Invoice() :
+	PartNumber{ "00" },
+	PartDescription{ "Book" },
+	PurchasingQuantity{ 20 },
+	ItemPrice{ 55 },
+	ValueAddedTax{ .20 },
+	DiscountRate{ 0 }
+{
+	//initializer list is better for speed and optimizations and so on
+}
+
+Ch03_Invoice::~Ch03_Invoice()
+{
+}

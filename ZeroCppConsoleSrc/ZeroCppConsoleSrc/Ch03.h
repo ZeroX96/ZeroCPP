@@ -88,18 +88,3 @@ private:
 	double	 ValueAddedTax{ .2 };
 	double	 DiscountRate{ 0 };
 };
-
-Ch03_Invoice::Ch03_Invoice() :
-	PartNumber{ "00" },
-	PartDescription{ "Book" },
-	PurchasingQuantity{ 20 },
-	ItemPrice{ 55 },
-	ValueAddedTax{ .20 },
-	DiscountRate{ 0 }
-{
-	//initializer list is better for speed and optimizations and so on
-}
-
-Ch03_Invoice::~Ch03_Invoice()
-{
-}

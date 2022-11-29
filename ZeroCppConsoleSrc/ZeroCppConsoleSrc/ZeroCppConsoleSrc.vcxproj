@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Ch02.cpp" />
     <ClCompile Include="Ch03.cpp" />
+    <ClCompile Include="Ch04.cpp" />
     <ClCompile Include="ZeroCppConsoleSrc.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ch02.h" />
     <ClInclude Include="Ch03.h" />
+    <ClInclude Include="Ch04.h" />
     <ClInclude Include="ZeroCppConsoleSrc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
