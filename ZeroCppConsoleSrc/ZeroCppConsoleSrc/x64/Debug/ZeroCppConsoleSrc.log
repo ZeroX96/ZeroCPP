@@ -1,2 +1,4 @@
 ﻿  ZeroCppConsoleSrc.cpp
-  ZeroCppConsoleSrc.vcxproj -> D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\x64\Debug\ZeroCppConsoleSrc.exe
+D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(13,13): error C3861: 'setprecision': identifier not found
+D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(18,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\_Work\Main\00-MasteringCriticalCppSkills\ZeroCPP\ZeroCppConsoleSrc\ZeroCppConsoleSrc\ZeroCppConsoleSrc.cpp(113,5): error C2143: syntax error: missing ';' before 'return'
